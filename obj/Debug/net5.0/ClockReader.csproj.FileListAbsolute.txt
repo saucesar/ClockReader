@@ -1,0 +1,16 @@
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\bin\Debug\net5.0\ClockReader.exe
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\bin\Debug\net5.0\ClockReader.deps.json
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\bin\Debug\net5.0\ClockReader.runtimeconfig.json
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\bin\Debug\net5.0\ClockReader.runtimeconfig.dev.json
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\bin\Debug\net5.0\ClockReader.dll
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\bin\Debug\net5.0\ref\ClockReader.dll
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\bin\Debug\net5.0\ClockReader.pdb
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.csprojAssemblyReference.cache
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.AssemblyInfoInputs.cache
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.AssemblyInfo.cs
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.csproj.CoreCompileInputs.cache
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.dll
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ref\ClockReader.dll
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.pdb
+C:\Users\Op Loja 29\Documents\Projects\ClockReader\obj\Debug\net5.0\ClockReader.genruntimeconfig.cache
