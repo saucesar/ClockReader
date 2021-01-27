@@ -10,6 +10,12 @@ namespace ClockReader.models
             this.pis = pis;
         }
 
+        public Employee(string fileLine)
+        {
+            this.pis = fileLine.Substring(25, 34);
+            this.name = fileLine.Substring(35);
+        }
+
         public string Name { get => name; set => name = value; }
         public string Pis { get => pis; set => pis = value; }
 
